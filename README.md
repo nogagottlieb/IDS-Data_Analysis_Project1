@@ -1,8 +1,6 @@
 # IDS Data Analysis Project 1
 **By:** Matan Tsafrir, Noga Gottlieb, Maya Amit  
-**Course:** Interview in Data Science
-
----
+**Course:** DS-GA 1001 - Interview in Data Science 
 
 ## Overview
 Hypothesis testing project using the *Wallisch & Whritner (2017)* movie ratings dataset (1,097 participants, 400 movies).  
